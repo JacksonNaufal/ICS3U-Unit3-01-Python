@@ -17,6 +17,7 @@ def main():
 
     # output
     print("\nThe total of both of your integers is {0}.".format(answer))
+    print('\n{0} + {1} = {2}'.format(int1, int2, answer))
     print("\nDone.")
 
 
